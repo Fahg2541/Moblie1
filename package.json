@@ -18,7 +18,7 @@
     "nativescript-ui-listview": "^7.0.5",
     "react": "16.8.6",
     "react-icons": "^3.7.0",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-app-intro-slider": "^3.0.0",
     "react-native-chart-kit": "^3.3.1",
     "react-native-complete-flatlist": "^1.1.34",
